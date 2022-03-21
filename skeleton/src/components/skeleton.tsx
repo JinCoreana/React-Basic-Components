@@ -54,7 +54,7 @@ const Skeleton: React.FC<Props> = ({
     rounded,
     animation = true,
     unit = 'px',
-    color = '#f4f4f4',
+    color = '#ebebeb',
     style,
     children }) => {
 
